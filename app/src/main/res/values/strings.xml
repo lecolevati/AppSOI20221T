@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jogo da Adivinhação</string>
+    <string name="btn_jogar">Jogar</string>
+    <string name="btn_voltar">Voltar</string>
+    <string name="num_menor">Digite um numero menor</string>
+    <string name="num_maior">Digite um numero maior</string>
+    <string name="resultado">O numero descoberto foi</string>
+    <string name="parabens">Parabens</string>
+</resources>
